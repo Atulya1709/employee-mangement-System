@@ -15,6 +15,9 @@ export default function HomePage() {
         className="object-cover z-0"
       />
 
+
+
+
       {/* Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-black/50 to-black/70 flex flex-col items-center justify-center text-center px-6">
         {/* Heading */}
